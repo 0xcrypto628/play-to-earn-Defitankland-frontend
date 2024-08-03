@@ -9,7 +9,7 @@ This is website for buying and selling nft tanks.
 Clone the project
 
 ```bash
-  git clone https://github.com/BigBen3918/defitankland-frontend.git
+  git clone https://github.com/yellowflash95628/play-to-earn-Defitankland-frontend.git
 ```
 
 Go to the project directory
