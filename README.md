@@ -3,6 +3,10 @@
 
 This is website for buying and selling nft tanks.
 
+<video width="640" height="480" controls>
+  <source src="https://github.com/yellowflash95628/play-to-earn-Defitankland-frontend/blob/main/src/assets/defiland.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Run Locally
 
