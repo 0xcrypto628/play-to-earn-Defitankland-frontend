@@ -10,7 +10,7 @@ export default function HowWork(props: any) {
             }
         >
             <img src={image} alt="" />
-
+            <img src={image} alt="" />
             <h5>{content}</h5>
         </div>
     );
