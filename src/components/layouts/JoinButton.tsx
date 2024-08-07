@@ -1,5 +1,6 @@
 import { FaDiscord } from "react-icons/fa";
 
+
 export default function JoinButton() {
     return (
         <div className="join__us">
