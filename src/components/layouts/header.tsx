@@ -35,8 +35,7 @@ export default function Header() {
                             <div className="col-4">
                                 <a
                                     href={process.env.REACT_APP_LAUNCHAPPURL}
-                                    className="sub__button"
-                                >
+                                    className="sub__button">
                                     <button>Launch App</button>
                                 </a>
                             </div>
