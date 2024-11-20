@@ -15,6 +15,7 @@ export const FadeUp = ({ children }: { children: React.ReactNode }) => {
         },
     };
 
+    
     return (
         <motion.span
             initial="offscreen"
